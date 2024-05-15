@@ -1,0 +1,1 @@
+The TCA9535 is a 16-bit I/O expander used to trigger digital pins to be HIGH or LOW.  Here, we use the ESP32-WROOM-32 to communicate with the TCA9535 via IO21 (SDA) and IO22 (SCL) as shown below, using the I2C (two-wire serial communication) protocol.
